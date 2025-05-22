@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-clean-jsx",
+  "version": "1.0.0",
+  "description": "A clean JSX template for Create React App without unnecessary files",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "jsx"
+  ],
+  "author": "Essarhir Tarik",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
