@@ -9,6 +9,10 @@
     "template",
     "jsx"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TEssarhir/cra-template-clean-jsx.git"
+  },
   "author": "Essarhir Tarik",
   "license": "MIT",
   "files": [
