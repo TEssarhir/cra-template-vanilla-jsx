@@ -15,7 +15,7 @@ A clean, minimal JSX template for Create React App without unnecessary files and
 You can use this template with Create React App by running:
 
 ```sh
-npx create-react-app
+npx create-react-app my-app --template clean-jsx
 ```
 
 ## What's Included
