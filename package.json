@@ -1,6 +1,6 @@
 {
   "name": "cra-template-clean-jsx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A clean JSX template for Create React App without unnecessary files",
   "main": "template.json",
   "keywords": [
