@@ -1,4 +1,4 @@
-# CRA Clean JSX Template
+# CRA Vanilla JSX Template
 
 A clean, minimal JSX template for Create React App without unnecessary files and boilerplate.
 
@@ -15,7 +15,7 @@ A clean, minimal JSX template for Create React App without unnecessary files and
 You can use this template with Create React App by running:
 
 ```sh
-npx create-react-app my-app --template clean-jsx
+npx create-react-app my-app --template vanilla-jsx
 ```
 
 ## What's Included
@@ -42,6 +42,9 @@ my-react-app
 │   ├── index.html
 │   └── manifest.json
 └── src
+    ├── craco.config.js
+    ├── .gitignore
+    ├── jsconfig.json
     ├── App.jsx
     └── index.jsx
 ```

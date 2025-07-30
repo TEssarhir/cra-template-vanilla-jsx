@@ -1,7 +1,7 @@
 {
-  "name": "cra-template-clean-jsx",
+  "name": "cra-template-vanilla-jsx",
   "version": "1.1.0",
-  "description": "A clean JSX template for Create React App without unnecessary files",
+  "description": "A very minimalistic JSX template for Create React App without unnecessary files",
   "main": "template.json",
   "keywords": [
     "react",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TEssarhir/cra-template-clean-jsx.git"
+    "url": "git+https://github.com/TEssarhir/cra-template-vanilla-jsx.git"
   },
   "author": "Essarhir Tarik",
   "license": "MIT",
